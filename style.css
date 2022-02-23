@@ -1,0 +1,148 @@
+.font_yeseva{
+    font-family: 'Yeseva One', cursive;
+}
+
+.font_poppins{
+    font-family: 'Poppins', sans-serif;
+}
+
+.font_praise{
+    font-family: 'Praise', cursive;
+}
+
+.orange_color{
+    color: orange;
+}
+
+.crimson_color{
+    color: crimson;
+}
+
+h1{
+    font-size: 60px;
+}
+
+h2{
+    font-size: 50px;
+}
+
+h3{
+    font-size: 30px;
+}
+
+p{
+    font-size: 20px;
+}
+
+.flexible_container{
+    display: flex;
+    margin-bottom: 10%;
+    padding-bottom: 5%;
+}
+
+.stay_focused{
+    border-radius: 10px;
+    border-left: 5px solid;
+    border-image: linear-gradient(red, tomato);
+    border-image-slice: 1;
+    padding-left: 15px;
+}
+
+.half_width{
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half_width img{
+    width: 80%;
+    padding-left: 5%;
+}
+
+.link_button{
+    text-decoration: none;
+    color: whitesmoke;
+    border-radius: 5px;
+    background-image: linear-gradient(red, tomato);
+    padding: 10px 25px;
+    font-weight: 700;
+}
+
+.our_mission_area{
+    display: flex;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-bottom: 10%;
+}
+
+.our_mission_items img{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+#our_mission{
+    text-align: center;
+}
+
+#mission{
+    background-color:rgb(188, 230, 246);
+    width: 40%;
+    height: 400px;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-left: 2%;
+    border-radius: 10px;
+}
+
+#vission{
+    background-color: antiquewhite;
+    width: 40%;
+    height: 400px;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-left: 2%;
+    border-radius: 10px;
+}
+
+#goals{
+    background-color: bisque;
+    width: 40%;
+    height: 400px;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-left: 2%;
+    border-radius: 10px;
+}
+
+#without_limit_area{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 20%;
+}
+
+#global_community_area{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 15%;
+}
+
+#photographer_area{
+    background-color: whitesmoke;
+    display: flex;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+footer{
+    background-color: black;
+    text-align: center;
+    color: antiquewhite;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
